@@ -1,6 +1,6 @@
 # 📚 The Future of Learning is Here! 🚀  
 
-A **Next-Gen AI-Powered LMS** built with the **MERN Stack** featuring AI search, Google authentication, payments, and modern dashboards. Perfect for your **portfolio or startup idea**!  
+A **Next-Gen Virtual_Course_Platform_with_AI_Integration** built with the **MERN Stack** featuring AI search, Google authentication, payments, and modern dashboards. Perfect for your **portfolio or startup idea**!  
 ---
 
 ## ✨ Key Features  
